@@ -1,0 +1,13 @@
+
+.nanimono{color: rgb(0, 0, 0);font-family: serif;}
+.h1{font-family: serif;}
+.benkyoutyu{font-family: serif;}
+.children{font-family: serif;}
+.only{font-family: serif;}
+body{
+    background-color:lightgray;
+    background:url("tornsymbol.png");
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
